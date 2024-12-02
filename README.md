@@ -1,6 +1,7 @@
 # URL Shortener Service
 
 A scalable URL shortener service built with TypeScript and Clean Architecture principles.
+![image](https://github.com/user-attachments/assets/27ba8afb-c5e4-446a-b1dd-007967bd9758)
 
 ## Features
 
